@@ -1,0 +1,40 @@
+<!DOCTYPE html> <!-- Указываем что это HTML5 документ -->
+<html>
+		<head>
+		<meta http-equiv=”Content-Type” content=text/html; charset=”utf-8” />
+		<title> Сайт для вас </title>
+		<h1></h1>
+		<meta name="Keywords" content="Разработка сайтов,Ремонт сайтов,Продвижение сайтов в соц сетях, Продвижение сайтов, Поддержка и развитие сайтов."/>
+		<meta name="description" content="Разработка сайтов и продвижение сайтов в поисковых системах. Разработка фирменного стиля"/>
+		<meta name="copyright" lang="ru" content="Сайт для Вас" />
+		<meta name="viewport" content="width=1020px"/>
+		<link rel="icon" href="favicon.ico" type="image/ynd.microsoft.icon" />
+		</head>
+		<body>
+		<header>Разработка сайтов,Ремонт сайтов,Продвижение сайтов в соц сетях, Продвижение сайтов, Поддержка и развитие сайтов.</header>
+			<nav>
+				<ul>
+					<li>Главная</li>
+					<li>О Компании</li>
+					<li>Новости</li>
+					<li>Контакты</li>
+				</ul>
+			</nav>
+		<aside>
+			<nav>
+				<ul>
+					<li>Главная</li>
+					<li>О Компании</li>
+					<li>Новости</li>
+					<li>Контакты</li>
+				</ul>
+			</nav>
+		</aside>
+			<article>
+				<p> Здесь будет текст </p>
+			</article>
+		</body>
+		<footer>
+			<p> Нижняя часть сайта </p>
+		</footer>
+</html>
